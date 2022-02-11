@@ -7,9 +7,9 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-![](C:\Users\mccor\OneDrive\All_the_rage\Calendar@1x.png)
-![](C:\Users\mccor\OneDrive\All_the_rage\form1@1x (1).png)
-![](C:\Users\mccor\OneDrive\All_the_rage\Screen 1@1x (1).png)
+https://docs.google.com/document/d/1KmwA0HmBrDRSzVZeOi2rvGqFL6d70YwBwOpXZuFajVw/edit?usp=sharing
+
+All Wireframes are included in the link
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
