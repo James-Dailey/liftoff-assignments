@@ -15,6 +15,9 @@ operation and success of "All The Rage!".
 
 Please don't steal my idea, it would hurt my feelings.
 
+### Features
+The app has login and registration pages, a testimonial section, a form for comments and questions. Future features
+will include a calendar, and a commerce portal to pay for rendered services.
 
 
 
